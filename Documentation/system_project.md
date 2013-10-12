@@ -60,6 +60,29 @@
 В качество системы непрерывной интеграции выбран кафедральный Jenkins
 
 
+###Описание структуры:
+
+Основные директории контроллеров:
+
+Controller(расположение /application/classes/)
+Model (расположение /application/classes/)
+Views (расположение /application/)
+
+Основные контроллеры:
+
+Admin - Контроллер для управления системой
+Index - Контроллер управления для отображения страниц
+Modules - Контроллер для управления модулями
+News - контроллер управления новостями
+
+Основные файлы для контроллеров:
+
+Admin - main.php
+Model - main.php
+Index - main.php
+News - main.php
+
+
 ### Черновики интерфейса приложения:
 1. Авторизация: https://github.com/grushkosergey/cosy-cms/blob/master/Documentation/UI/authorization.jpg
 2. Административная панель: https://github.com/grushkosergey/cosy-cms/blob/master/Documentation/UI/admin_panel.jpg

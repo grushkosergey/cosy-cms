@@ -38,7 +38,7 @@
 
 Передача запросов по протоколу HTTP 
  
- HTTP -сервер. Kohana работает с: Apache 1.3 +, 2.0 + Apache, Lighttpd, и MS IIS.
+ HTTP -сервер. Kohana работает с: Apache 1.3 +.
 
 *Необходимые расширения:*
 

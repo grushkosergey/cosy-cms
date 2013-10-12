@@ -61,4 +61,10 @@
 
 
 ### Черновики интерфейса приложения:
-
+1. Авторизация: https://github.com/grushkosergey/cosy-cms/blob/master/Documentation/UI/authorization.jpg
+2. Административная панель: https://github.com/grushkosergey/cosy-cms/blob/master/Documentation/UI/admin_panel.jpg
+3. Структура сайта(управление страницами):  https://github.com/grushkosergey/cosy-cms/blob/master/Documentation/UI/add_pages.jpg
+4. Структура сайта(добавление страницы):  https://github.com/grushkosergey/cosy-cms/blob/master/Documentation/UI/add_pages_inner.jpg
+5. Пользователи(управление):  https://github.com/grushkosergey/cosy-cms/blob/master/Documentation/UI/users.jpg
+6. Конфигурация:  https://github.com/grushkosergey/cosy-cms/blob/master/Documentation/UI/configuration.jpg
+7. Модули(управление модулем):  https://github.com/grushkosergey/cosy-cms/blob/master/Documentation/UI/module_inner.jpg
